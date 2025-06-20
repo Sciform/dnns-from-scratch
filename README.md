@@ -1,0 +1,2 @@
+The repo contains a collection of Deep Neural Networks implemented from scratch. 
+Each implementation demonstrates certain aspects of Deep Neural Networks.
